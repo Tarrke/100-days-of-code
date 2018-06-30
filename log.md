@@ -19,11 +19,10 @@ If I can do some of these, I'll be happy.
 
 ## Day 1: June 30, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through twitter API and did a script that will help me tweet about this challenge.  Hey my next tweets on this will be sent by a robot!
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I'm pretty happy to have done that. I had to do some research and get argparse done the right way this time. Not quite sure about the import after the __name__ == "__main__" but will see that next time.
 
 **Link(s) to work**:
 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [My Tweete script](https://github.com/Tarrke/python-twitter)
