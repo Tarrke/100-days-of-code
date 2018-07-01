@@ -26,3 +26,16 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [My Tweete script](https://github.com/Tarrke/python-twitter)
+
+## Day 2: July 1, Sunday
+
+**Today's Progress**:
+
+* did some work with dates
+
+**Thoughts**: Today was great but baby was too hot due to weather conditions. I spend lot of time with her and argued with wife about age calculation. In the end I decided to write a small script to get the baby's age calculated the right way. Next I wanted to do some work with APIs, and decided to go toward the [Star Wars API](https://swapi.co/). I've just scratched the surface though.
+
+**Link(s) to work**:
+
+1. [Baby's age calculator](https://github.com/Tarrke/python-date)
+2. [Star Wars API Reader](https://github.com/Tarrke/python-swapi)
