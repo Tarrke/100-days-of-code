@@ -39,3 +39,19 @@ If I can do some of these, I'll be happy.
 
 1. [Baby's age calculator](https://github.com/Tarrke/python-date)
 2. [Star Wars API Reader](https://github.com/Tarrke/python-swapi)
+
+## Day 3: July 2, Monday
+
+**Today's Progress**:
+
+* worked on my factorio mod
+  * created the base mod
+  * set option to show log
+  * set locale to option
+* worked on the python script to deploy the mod
+
+**Thoughts**: Today was not great at work. Got home feeling bad but coding get me fells better. I did some lua work but spend most of my time working with files and copy in python. Get the things I wanted, so all in all I'm satisfied with today's work
+
+**Link(s) to work**:
+
+1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
