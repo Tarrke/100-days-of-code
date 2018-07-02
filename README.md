@@ -3,6 +3,7 @@
 ## Contents
 
 * [My Commitment](rules.md)
+* [My Goals](goals.md)
 * [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
 
