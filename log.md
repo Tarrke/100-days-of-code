@@ -55,3 +55,16 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
+
+## Day 4: July 3, Monday
+
+**Today's Progress**:
+
+* worked on my factorio mod
+  * added entity Eiffel Tower, recipe and item
+
+**Thoughts**: Still working my factorio modding skills. Got better today and I'm quite to the point where I can place a new object in game. Lot of work still needed for this item to work as intended though.
+
+**Link(s) to work**:
+
+1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
