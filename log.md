@@ -68,3 +68,18 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
+
+## Day 5: July 4, Monday
+
+**Today's Progress**:
+
+* worked on my factorio mod
+  * made the entity fell wel in inventory
+  * made the entity in the world
+  * minor correction to the deployment script, still need a fix.
+
+**Thoughts**: Still working my factorio modding skills. Did some progress with the data structure of the game and got better understanding of it. The next parts should be easier to go through.
+
+**Link(s) to work**:
+
+1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
