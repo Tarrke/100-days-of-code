@@ -56,7 +56,7 @@ If I can do some of these, I'll be happy.
 
 1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
 
-## Day 4: July 3, Monday
+## Day 4: July 3, Tuesday
 
 **Today's Progress**:
 
@@ -69,7 +69,7 @@ If I can do some of these, I'll be happy.
 
 1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
 
-## Day 5: July 4, Monday
+## Day 5: July 4, Wednesday
 
 **Today's Progress**:
 
@@ -83,3 +83,15 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Factorio Landmarks mod](https://github.com/Tarrke/factorio-landmarks)
+
+## Day 6: July 5, Thursday
+
+**Today's Progress**:
+
+* worked on Python reading "Python for Finance".
+
+**Thoughts**: Non internet at home today, may last some times... I read a book on python and did some exercices on basics.
+
+**Link(s) to work**:
+
+1. None today
