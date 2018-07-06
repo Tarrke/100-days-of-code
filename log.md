@@ -90,7 +90,19 @@ If I can do some of these, I'll be happy.
 
 * worked on Python reading "Python for Finance".
 
-**Thoughts**: Non internet at home today, may last some times... I read a book on python and did some exercices on basics.
+**Thoughts**: No internet at home today, may last some times... I read a book on python and did some exercices on basics.
+
+**Link(s) to work**:
+
+1. None today
+
+## Day 7: July 6, Friday
+
+**Today's Progress**:
+
+* worked on Python reading "Python for Finance".
+
+**Thoughts**: Still no internet at home today, may last a while... I read a book on python and did some exercices too.
 
 **Link(s) to work**:
 
