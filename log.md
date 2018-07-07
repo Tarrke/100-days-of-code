@@ -107,3 +107,15 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. None today
+
+## Day 8: July 7, Saturday
+
+**Today's Progress**:
+
+* made a script using my lib wxw-Markdowner. Had to fix some little things.
+
+**Thoughts**: Still no internet at home today, may last a while... I read a book on python and did some exercices too.
+
+**Link(s) to work**:
+
+1. [WXW-Markdowner](https://github.com/Tarrke/wxw-markdowner)
