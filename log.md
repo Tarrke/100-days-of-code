@@ -131,5 +131,4 @@ If I can do some of these, I'll be happy.
 
 **Link(s) to work**:
 
-[Code War Profile](https://www.codewars.com/users/Tarrke)
-1. [WXW-Markdowner](https://github.com/Tarrke/wxw-markdowner)
+1. [Code War Profile](https://www.codewars.com/users/Tarrke)
