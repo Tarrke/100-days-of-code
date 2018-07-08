@@ -119,3 +119,17 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [WXW-Markdowner](https://github.com/Tarrke/wxw-markdowner)
+
+## Day 9: July 8, Sunday
+
+**Today's Progress**:
+
+* Read the begining of a book on NodeJS
+* Did some exercices on Codewars
+
+**Thoughts**: Life without internet is boring, every search takes ages on phone...
+
+**Link(s) to work**:
+
+[Code War Profile](https://www.codewars.com/users/Tarrke)
+1. [WXW-Markdowner](https://github.com/Tarrke/wxw-markdowner)
