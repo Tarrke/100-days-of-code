@@ -132,3 +132,16 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Code War Profile](https://www.codewars.com/users/Tarrke)
+
+## Day 10: July 9, Monday
+
+**Today's Progress**:
+
+* continue reading the book on NodeJS
+* Did some exercices on Codewars
+
+**Thoughts**: Internet seems to be up again really at the instant of commiting my progress. I'll check that on tommorrow. I did read some interresting materials while Internet was away, I'll restart working on my factorio mod on Wednesday, tommorrow will be out of the office day, so more codewars kata!
+
+**Link(s) to work**:
+
+1. [Code War Profile](https://www.codewars.com/users/Tarrke)
