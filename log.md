@@ -145,3 +145,17 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Code War Profile](https://www.codewars.com/users/Tarrke)
+
+## Day 11: July 10, Tuesday
+
+**Today's Progress**:
+
+* did some configuration on github to use Github Pages
+* follow the javascript course at https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript/
+
+**Thoughts**: With the Internet reworking I was going to take a NodeJS class, but it said go follow the JavaScript class first, then I did. The first Practical Exercise was converting numbers to litteral strings, rally interesting, specialy in French :p
+
+**Link(s) to work**:
+
+1. [Javascript Exercises](https://github.com/Tarrke/js-exercises)
+2. [The associated Github Page](https://tarrke.github.io/js-exercices/index.html)
