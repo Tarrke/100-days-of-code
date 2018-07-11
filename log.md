@@ -159,3 +159,15 @@ If I can do some of these, I'll be happy.
 
 1. [Javascript Exercises](https://github.com/Tarrke/js-exercises)
 2. [The associated Github Page](https://tarrke.github.io/js-exercices/index.html)
+
+## Day 12: July 11, Wednesday
+
+**Today's Progress**:
+
+* worked on my factorio mod, still working with the data structures to get my items into the game
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+1. [Landmarks Mod](https://github.com/Tarrke/factorio-landmarks)
