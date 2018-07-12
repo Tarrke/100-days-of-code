@@ -171,3 +171,16 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Landmarks Mod](https://github.com/Tarrke/factorio-landmarks)
+
+## Day 13: July 12, Thursday
+
+**Today's Progress**:
+
+* worked on my factorio mod, still working with the data structures to get my items into the game
+
+**Thoughts**: Discovered a new self leraning site: SoloLearn, seems great. Did some work on the mod, not really working at the moment
+
+**Link(s) to work**:
+
+1. [Landmarks Mod](https://github.com/Tarrke/factorio-landmarks)
+2. [SoloLearn profile](https://www.sololearn.com/Profile/9484884/)
