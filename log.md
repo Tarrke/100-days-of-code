@@ -185,13 +185,26 @@ If I can do some of these, I'll be happy.
 1. [Landmarks Mod](https://github.com/Tarrke/factorio-landmarks)
 2. [SoloLearn profile](https://www.sololearn.com/Profile/9484884/)
 
-## Day 14: July 13, Thursday
+## Day 14: July 13, Friday
 
 **Today's Progress**:
 
 * Got my SoloLearn certification in JS!
 
 **Thoughts**: SoloLearn is a bit too easy to get, but felt great to get the certification. Began python certification now.
+
+**Link(s) to work**:
+
+1. [SoloLearn profile](https://www.sololearn.com/Profile/9484884/)
+
+## Day 15: July 14, Saturday
+
+**Today's Progress**:
+
+* Read book on Python
+* Progress through Sololearn Python class
+
+**Thoughts**:
 
 **Link(s) to work**:
 
