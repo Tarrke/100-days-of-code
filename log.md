@@ -166,7 +166,7 @@ If I can do some of these, I'll be happy.
 
 * worked on my factorio mod, still working with the data structures to get my items into the game
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**:
 
@@ -209,3 +209,18 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [SoloLearn profile](https://www.sololearn.com/Profile/9484884/)
+
+## Day 16: July 15, Sunday
+
+**Today's Progress**:
+
+* Completed the tribute page for FreeCodeCamp
+* Begin work on the survey page for FreeCodeCamp
+
+**Thoughts**: Restarted my FreeCodeCamp curiculum. Completed the tribute page and started the survey page. Choose to make theses pages for Star Wars Universe.
+
+**Link(s) to work**:
+
+1. [Tribute Page](https://tarrke.github.io/fcc-html/tribute/index.html)
+2. [Survey Page](https://tarrke.github.io/fcc-html/survey/index.html)
+3. [Code](https://github.com/tarrke/fcc-html)
