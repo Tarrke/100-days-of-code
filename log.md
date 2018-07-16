@@ -224,3 +224,16 @@ If I can do some of these, I'll be happy.
 1. [Tribute Page](https://tarrke.github.io/fcc-html/tribute/index.html)
 2. [Survey Page](https://tarrke.github.io/fcc-html/survey/index.html)
 3. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 17: July 16, Monday
+
+**Today's Progress**:
+
+* Completed the survey page for FreeCodeCamp
+
+**Thoughts**: Still working on my FreeCodeCamp curiculum. Completed the survey page. Still using the Star Wars Universe for these pages.
+
+**Link(s) to work**:
+
+1. [Survey Page](https://tarrke.github.io/fcc-html/survey/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
