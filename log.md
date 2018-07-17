@@ -237,3 +237,16 @@ If I can do some of these, I'll be happy.
 
 1. [Survey Page](https://tarrke.github.io/fcc-html/survey/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 18: July 17, Tuesday
+
+**Today's Progress**:
+
+* Worked on the Product Landing page for FreeCodeCamp
+
+**Thoughts**: Still working on my FreeCodeCamp curiculum. At the begining of the challenge I was wondering, what am I going to do. Now I have, I think, too many ideas. I just updated the goal page with 2 new ideas I got today, not sure which one I'll be doing in the future. I'm concidering dropping the factorio mod for the new ideas.
+
+**Link(s) to work**:
+
+1. [Product Landing Page](https://tarrke.github.io/fcc-html/product/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
