@@ -11,3 +11,5 @@ the blank page situation. Hence I'll set here some of my goals for the challenge
   4.1 Polish my skills in JS, nodeJS in particular  
   4.2 Learn React Native  
   4.3 Do the App
+5. Work on a YML file visualiser online app
+6. Follow Youtube chain on AI (https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
