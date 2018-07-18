@@ -250,3 +250,16 @@ If I can do some of these, I'll be happy.
 
 1. [Product Landing Page](https://tarrke.github.io/fcc-html/product/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 19: July 18, Wednesday
+
+**Today's Progress**:
+
+* Retook the flex grid course from FreeCodeCamp
+* Begin working on a simple python game to make AI.
+
+**Thoughts**: Still working on my FreeCodeCamp curiculum. Rettok the class on flex grid, still need to learn this. Started working at home on a simple python game to get some AI working on it. Pretty happy about this idea.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
