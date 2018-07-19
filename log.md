@@ -263,3 +263,15 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 20: July 19, Thursday
+
+**Today's Progress**:
+
+* Worked on mouving the dots on the screen in a good way... not there yet.
+
+**Thoughts**: the game is going well, but not the mouvement of the dots in the game. Well I'm going to study some things on that to get theses dots mouving well around the screen.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
