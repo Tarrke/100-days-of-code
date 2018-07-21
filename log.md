@@ -275,3 +275,27 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 21: July 20, Friday
+
+**Today's Progress**:
+
+* Worked a lot on mouving the dots on the screen in a good way... This is good now. Refactored the code quit a bit to make it good.
+
+**Thoughts**: the game is going well, and now we got dots mouving on the screen getting to the goal, or not. Some are stupids dots. Was fun to work with Pascal on this problem.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 22: July 21, Saturday
+
+**Today's Progress**:
+
+* Worked on the population class.
+
+**Thoughts**: The game is still going well, now we got a population. tryed to get the best of the population dot, but not really good to this date. Will be better tomorrow I'm sure. 4th day in a row on this project, I give myself three more days to complete it.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
