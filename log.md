@@ -299,3 +299,27 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 23: July 22, Sunday
+
+**Today's Progress**:
+
+* Worked on the genetic algorithm.
+
+**Thoughts**: The game is still going well, now we got a population that can reproduce with natural selection. That's seems good.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 24: July 23, Saturday
+
+**Today's Progress**:
+
+* Worked on the game main loop
+
+**Thoughts**: The game is almost finished now. Everthing seems running fine. I just need some time to polish things and make some debug.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
