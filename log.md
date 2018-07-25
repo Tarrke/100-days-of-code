@@ -312,13 +312,37 @@ If I can do some of these, I'll be happy.
 
 1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
 
-## Day 24: July 23, Saturday
+## Day 24: July 23, Monday
 
 **Today's Progress**:
 
 * Worked on the game main loop
 
 **Thoughts**: The game is almost finished now. Everthing seems running fine. I just need some time to polish things and make some debug.
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 25: July 24, Tuesday
+
+**Today's Progress**:
+
+* debugged the reproduction system
+
+**Thoughts**: The reproduction system was a bit tricky. I finaly found the mistake, everything is reference in python, I should have know best... Copying an array won't copy the members...
+
+**Link(s) to work**:
+
+1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 26: July 25, Wednesday
+
+**Today's Progress**:
+
+* Failed to debug the evalutation system...
+
+**Thoughts**: I spent quit a lot of time on this side project for now. I need to refocus mainly on my HTML/CSS skills, hopefully when I'll retry thoses it will be clearer.
 
 **Link(s) to work**:
 
