@@ -347,3 +347,16 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [Simple AI Game](https://github.com/tarrke/python-firstAI)
+
+## Day 27: July 26, Thursday
+
+**Today's Progress**:
+
+* Worked on the Product Landing page for FreeCodeCamp
+
+**Thoughts**: Got back on the FreeCodeCamp curiculum. It's going well today. Just doing one hour of code cause I spend lot of time on the road to vacations :)
+
+**Link(s) to work**:
+
+1. [Product Landing Page](https://tarrke.github.io/fcc-html/product/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
