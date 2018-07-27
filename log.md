@@ -360,3 +360,17 @@ If I can do some of these, I'll be happy.
 
 1. [Product Landing Page](https://tarrke.github.io/fcc-html/product/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 28: July 27, Friday
+
+**Today's Progress**:
+
+* Finished the Product Landing page for FreeCodeCamp
+* Passed the test!
+
+**Thoughts**: Today I wanted to finish that product landing page. I've made it, at last. Spend soo much time on this one seriously. Next on the rails is a technical documentation, did not read all the user stories but seems easier to me, I'll see that tomorrow.
+
+**Link(s) to work**:
+
+1. [Product Landing Page](https://tarrke.github.io/fcc-html/product/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
