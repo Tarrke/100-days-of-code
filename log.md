@@ -374,3 +374,16 @@ If I can do some of these, I'll be happy.
 
 1. [Product Landing Page](https://tarrke.github.io/fcc-html/product/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 29: July 28, Saturday
+
+**Today's Progress**:
+
+* Started the FreeCodeCamp technical Documentation.
+
+**Thoughts**: As usual I wanted to go Star Wars for the technical documentation exercice. I did search for a certain time to get a subject using the code markup. What the heck is that request? Seriously? Code? Well, I've found a work around. The main body is up still got to do the menu.
+
+**Link(s) to work**:
+
+1. [Technical Documentation Page](https://tarrke.github.io/fcc-html/technicaldoc/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
