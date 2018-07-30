@@ -387,3 +387,29 @@ If I can do some of these, I'll be happy.
 
 1. [Technical Documentation Page](https://tarrke.github.io/fcc-html/technicaldoc/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 30: July 29, Sunday
+
+**Today's Progress**:
+
+* Started the FreeCodeCamp Portfolio project.
+
+**Thoughts**: This time I just went classic for this project.
+
+**Link(s) to work**:
+
+1. [Portfolio Page](https://tarrke.github.io/fcc-html/portfolio/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 31: July 30, Monday
+
+**Today's Progress**:
+
+* Work on the FCC Portfolio Project.
+
+**Thoughts**: CSS is better day by day. Today I did almost what I wanted at first try. Perfect centering a div in a div took me some time cause of a stupid mistake at first try.
+
+**Link(s) to work**:
+
+1. [Portfolio Page](https://tarrke.github.io/fcc-html/portfolio/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
