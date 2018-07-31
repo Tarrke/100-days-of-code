@@ -413,3 +413,16 @@ If I can do some of these, I'll be happy.
 
 1. [Portfolio Page](https://tarrke.github.io/fcc-html/portfolio/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 32: July 31, Tuesday
+
+**Today's Progress**:
+
+* Work on the FCC Portfolio Project.
+
+**Thoughts**: Spent the whole day reading some CSS stuff to make my page great. Did not get a lot of things done...
+
+**Link(s) to work**:
+
+1. [Portfolio Page](https://tarrke.github.io/fcc-html/portfolio/index.html)
+2. [Code](https://github.com/tarrke/fcc-html)
