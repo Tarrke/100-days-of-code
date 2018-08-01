@@ -151,7 +151,7 @@ If I can do some of these, I'll be happy.
 **Today's Progress**:
 
 * did some configuration on github to use Github Pages
-* follow the javascript course at https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript/
+* follow the javascript course at [OpenClassroom](https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript/)
 
 **Thoughts**: With the Internet reworking I was going to take a NodeJS class, but it said go follow the JavaScript class first, then I did. The first Practical Exercise was converting numbers to litteral strings, rally interesting, specialy in French :p
 
@@ -426,3 +426,16 @@ If I can do some of these, I'll be happy.
 
 1. [Portfolio Page](https://tarrke.github.io/fcc-html/portfolio/index.html)
 2. [Code](https://github.com/tarrke/fcc-html)
+
+## Day 33: August 1, Wednesday
+
+**Today's Progress**:
+
+* Worked on the ToDoList Factorio Mod.
+
+**Thoughts**: The owner of the TodoList factorio mod got out of his slumber. Did some work for the mod as I had a Pull Request waiting for his review. My name is on the release page!
+
+**Link(s) to work**:
+
+1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/36)
+2. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
