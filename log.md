@@ -439,3 +439,16 @@ If I can do some of these, I'll be happy.
 
 1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/36)
 2. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
+
+## Day 34: August 2, Thursday
+
+**Today's Progress**:
+
+* Worked on the ToDoList Factorio Mod.
+
+**Thoughts**: My PR has been accepted. Feels good. So I did some work on an other feature requested on this mod. Feels good to make job for community.
+
+**Link(s) to work**:
+
+1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/36)
+2. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
