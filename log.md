@@ -452,3 +452,9 @@ If I can do some of these, I'll be happy.
 
 1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/36)
 2. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
+
+## Not a Day: August 3, Friday
+
+**Holiday Day**
+
+Today I took a break as I needed to hit some road. Did lots of kilometers to get to my resting place.
