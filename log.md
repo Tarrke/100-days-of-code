@@ -455,6 +455,12 @@ If I can do some of these, I'll be happy.
 
 ## Not a Day: August 3, Friday
 
-**Holiday Day**
+**Holiday Day**:
 
 Today I took a break as I needed to hit some road. Did lots of kilometers to get to my resting place.
+
+## Not a Day: August 4, Saturday
+
+**Holiday Day**:
+
+Today I took a break too.
