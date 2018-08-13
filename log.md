@@ -453,14 +453,16 @@ If I can do some of these, I'll be happy.
 1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/36)
 2. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
 
-## Not a Day: August 3, Friday
+## Day 35: August 13, Monday
 
-**Holiday Day**:
+**Today's Progress**:
 
-Today I took a break as I needed to hit some road. Did lots of kilometers to get to my resting place.
+* Worked on the ToDoList Factorio Mod.
 
-## Not a Day: August 4, Saturday
+**Thoughts**: Got back from hollidays in great state! Today passed a couple hours on Lua code for a factorio mod. Feels great to get back to code lije that.
 
-**Holiday Day**:
+**Link(s) to work**:
 
-Today I took a break too.
+1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/50)
+2. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/49)
+3. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
