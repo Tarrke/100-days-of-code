@@ -466,3 +466,18 @@ If I can do some of these, I'll be happy.
 1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/50)
 2. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/49)
 3. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
+
+## Day 36: August 14, Tuesday
+
+**Today's Progress**:
+
+* Worked on the ToDoList Factorio Mod.
+* Started the FreeCodeCamp Javascript Curriculum
+
+**Thoughts**: I started the FCC Javascript Curriculum. This language seems simple enough to get throught the Certification quite fast.
+
+**Link(s) to work**:
+
+1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/50)
+2. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/49)
+3. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
