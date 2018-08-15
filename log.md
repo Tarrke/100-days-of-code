@@ -481,3 +481,15 @@ If I can do some of these, I'll be happy.
 1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/50)
 2. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/49)
 3. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
+
+## Day 37: August 15, Wednesday
+
+**Today's Progress**:
+
+* Did some prgress through the FreeCodeCamp Javascript Curriculum
+
+**Thoughts**: As for now, no major problems while doing JS exercices.
+
+**Link(s) to work**:
+
+1. [FCC profile link](https://www.freecodecamp.org/tarrke)
