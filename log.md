@@ -493,3 +493,15 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [FCC profile link](https://www.freecodecamp.org/tarrke)
+
+## Day 38: August 16, Thursday
+
+**Today's Progress**:
+
+* Did some prgress through the FreeCodeCamp Javascript Curriculum
+
+**Thoughts**: As for now, no major problems while doing JS exercices.
+
+**Link(s) to work**:
+
+1. [FCC profile link](https://www.freecodecamp.org/tarrke)
