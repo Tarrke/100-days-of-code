@@ -472,6 +472,7 @@ If I can do some of these, I'll be happy.
 **Today's Progress**:
 
 * Worked on the ToDoList Factorio Mod.
+* Got the Responsive Web Design Certification from freeCodeCamp!
 * Started the FreeCodeCamp Javascript Curriculum
 
 **Thoughts**: I started the FCC Javascript Curriculum. This language seems simple enough to get throught the Certification quite fast.
@@ -481,6 +482,7 @@ If I can do some of these, I'll be happy.
 1. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/50)
 2. [Pull Request Page](https://github.com/JonasJurczok/factorio-todo-list/pull/49)
 3. [Mod Release Page](https://mods.factorio.com/mods/JasonMiles/Todo-List)
+4. [FCC Certification](https://www.freecodecamp.org/certification/tarrke/responsive-web-design)
 
 ## Day 37: August 15, Wednesday
 
@@ -537,6 +539,18 @@ If I can do some of these, I'll be happy.
 * Did some prgress through the FreeCodeCamp Javascript Curriculum
 
 **Thoughts**: As for now, no major problems while doing JS exercices.
+
+**Link(s) to work**:
+
+1. [FCC profile link](https://www.freecodecamp.org/tarrke)
+
+## Day 42: August 20, Monday
+
+**Today's Progress**:
+
+* Did some prgress through the FreeCodeCamp Javascript Curriculum
+
+**Thoughts**: Exercises on FreeCodeCamp are nice, but not really challenging. I'd like to get to real practical work soon.
 
 **Link(s) to work**:
 
