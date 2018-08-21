@@ -555,3 +555,17 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [FCC profile link](https://www.freecodecamp.org/tarrke)
+
+## Day 43: August 21, Tuesday
+
+**Today's Progress**:
+
+* Got Javascript Algorithms and Data Structures Certification.
+* Started the Front End Libraries Certification.
+
+**Thoughts**: Got the certification with no trouble at all. Even the last algorithms were simple enough for me. The Front End Libs are a lot more challenging!
+
+**Link(s) to work**:
+
+1. [FCC profile link](https://www.freecodecamp.org/tarrke)
+2. [FCC Certification](https://www.freecodecamp.org/certification/tarrke/javascript-algorithms-and-data-structures)
