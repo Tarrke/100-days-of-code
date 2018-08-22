@@ -569,3 +569,15 @@ If I can do some of these, I'll be happy.
 
 1. [FCC profile link](https://www.freecodecamp.org/tarrke)
 2. [FCC Certification](https://www.freecodecamp.org/certification/tarrke/javascript-algorithms-and-data-structures)
+
+## Day 44: August 22, Wednesday
+
+**Today's Progress**:
+
+* Did some of the Front End Curriculum on freeCodeCamp.
+
+**Thoughts**: This curriculum is more challenging to me! I really hope this will be usefull for ReactNative learning.
+
+**Link(s) to work**:
+
+1. [FCC profile link](https://www.freecodecamp.org/tarrke)
