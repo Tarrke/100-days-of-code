@@ -581,3 +581,15 @@ If I can do some of these, I'll be happy.
 **Link(s) to work**:
 
 1. [FCC profile link](https://www.freecodecamp.org/tarrke)
+
+## Day 45: August 23, Thursday
+
+**Today's Progress**:
+
+* Did more of the Front End Libraries Certification.
+
+**Thoughts**: Ok, not quite sure I'll be able to redo all of this in real life. But still waiting for the practical exercices.
+
+**Link(s) to work**:
+
+1. [FCC profile link](https://www.freecodecamp.org/tarrke)
